@@ -21,8 +21,8 @@ const Hero = () => {
         </h3>
         <h4 className='lg:text-xl text-sm mt-4 text-[#617ABC]'>Cancel easily online.</h4>
         <Link href="https://store.pesapal.com/tilementorshipprogram" passHref>
-        <button className="bg-[#9D3434] z-5 text-white font-bold py-4 px-4 lg:mt-14 mt-14 flex items-center">
-        Credit or Debit card
+        <button className="bg-[#9D3434] z-5 text-white font-bold py-4 px-6 lg:mt-14 mt-14 flex items-center">
+        Credit or Debit card.
         <div className="flex ml-2">
           <Image src='/image/google-pay.png' alt='icon1' width={24} height={24} />
           <Image src='/image/apple-pay.png' alt='icon2' width={24} height={24} className="ml-2" />
